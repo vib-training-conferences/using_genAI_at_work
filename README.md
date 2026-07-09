@@ -1,7 +1,7 @@
 <!--
-author:   name last_name
+author:   Bruna Piereck, Jolan Heyse
 email:    trainingandconferences@vib.be
-version:  2.0.0
+version:  1.0.0
 language: en
 narrator: UK English Female
 
@@ -25,13 +25,13 @@ link:     https://fonts.googleapis.com/css2?family=Open+Sans&display=swap
 link:  https://raw.githubusercontent.com/vib-tcp/material-liascript/master/vib-styles.css
 
 @edition:  1st 
-@CourseTitle: replace by course title
+@CourseTitle: Using generative AI Responsibly and proficiently at work
 
 import:   https://raw.githubusercontent.com/vib-tcp/training_material_template/refs/heads/main/macro.md
 
 -->
 
-# @CourseTitle
+# Using generative AI Responsibly and proficiently at work
 
 <section>
 
@@ -46,11 +46,14 @@ This is the @edition edition of this workshop, jointly organised by VIB and ELIX
 
 ## General context
 
-This workshop is dedicated to ...
+This workshop is dedicated to strengthen your AI literacy, helping you use tools like Copilot and other LLM-based chatbots confidently and responsibly in a professional setting.
+
 
 ## Proposed Schedule
 
-Schedule day 1:
+Schedule :
+
+<span style="color:red">Under development</span>
 
 - 9:30 - 11:00 - session
 - 11:00 - 11:15 - break
@@ -66,44 +69,38 @@ Schedule day 1:
 
 > <i class="fa fa-lock"></i> **License:** [Creative Commons Attribution 4.0 International  License](https://creativecommons.org/licenses/by/4.0/deed.en)
 >
-> <i class="fa fa-user"></i> **Target Audience:** Researchers, trainers, training providers
+> <i class="fa fa-user"></i> **Target Audience:** Administrative personnel, Support staff, Researchers, Trainers, Training providers
 >
 > <svg xmlns="http://www.w3.org/2000/svg" height="14" width="16" viewBox="0 0 576 512"><!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2023 Fonticons, Inc.--><path d="M384 64c0-17.7 14.3-32 32-32H544c17.7 0 32 14.3 32 32s-14.3 32-32 32H448v96c0 17.7-14.3 32-32 32H320v96c0 17.7-14.3 32-32 32H192v96c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32h96V320c0-17.7 14.3-32 32-32h96V192c0-17.7 14.3-32 32-32h96V64z"/></svg> **Level:** Beginner  
 >
 > <i class="fa fa-arrow-left"></i> **Prerequisites**  
-> To be able to follow this course, learners should have knowledge in:
-> 
-> 1. Basic knowlegde of HTML  
-> 2. Basic knowledge of ...
-> 3. Being comfortable working with ....  
+> No previous knowledge requeired.  
 >
-> <i class="fa fa-bookmark"></i> **Description**  This course consist of .....
+> <i class="fa fa-bookmark"></i> **Description**  Generative AI is transforming the way we work and create. This training is designed to strengthen your AI literacy, helping you use tools like Copilot and other LLM-based chatbots confidently and responsibly in a professional setting.
+>
+> Through interactive discussions and practical exercises, you will explore the main strengths, limitations, and best practices for working with generative AI. You will also learn effective prompting techniques to make these tools support tasks such as brainstorming, adapting tone and style, drafting content, and creating visual ideas.
+> The session highlights ethical considerations, including ownership, copyright, and bias, to ensure accurate and responsible use of AI technologies.
+>
 > 
 > <i class="fa fa-arrow-right"></i> **Learning Outcomes:**  
 > By the end of the course, learners will be able to:
 >
-> 1. Define what ..... [Remembering] 
+> 1. Describe strengths, weakness and best practices in the use of LLM.
+> 2. Apply good practices to minimize biases and hallucinations in LLMs.
+> 3. Use and adapt prompting strategies for brainstorming, steering writing styles, defining language complexity, content drafting and summarization
+> 4. Discuss ethical implications, ownership and copyright of AI-generated content.
+> 5. Evaluate quality and reliability of AI-generated content.
+> 6. Create illustrations with generative AI tools.
 >
-> 2. Discuss and explain ..... [Understanding] 
+> <i class="fa fa-hourglass"></i> **Time estimation**: 4 hours
 >
-> 3. Apply and modify ..... [Applying] 
->
-> 4. Compare ..... [Analysing] 
->
-> 5. Evaluate and select ..... [Evaluating] 
->
-> 6. Create and integrate ..... [Creating]
->
->> Check more about [Bloom's taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/) to categorize the levels in educational goals
->
-> <i class="fa fa-hourglass"></i> **Time estimation**: 120 minutes
->
-> <i class="fa fa-asterisk"></i> **Requirements:** The (technical) installation requirements are described in the [installations](https://vibbits-nextflow-workshop.readthedocs.io/en/latest/installations.html) section.
+> <i class="fa fa-asterisk"></i> **Requirements:** The technical requirements are:
+> Creating accounts for [Perplexity](https://www.perplexity.ai/) and [Napkin](https://www.napkin.ai/)
 >
 > <i class="fa fa-envelope-open-text"></i> **Supporting Materials**:
 > 
-> 1. [Exercises and solutions](link)
-> 2. [Slides](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/training_material_template/refs/heads/main/supplementary/chapter_01_presentation.md)  
+> 1. Exercises and solutions <span style="color:red">Under development</span> [empty link](link)
+> 2. Slides <span style="color:red">Under development</span> [example](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/training_material_template/refs/heads/main/supplementary/chapter_01_presentation.md)  
 > 
 > <i class="fa fa-life-ring"></i> **Acknowledgement**:
 >
@@ -112,16 +109,16 @@ Schedule day 1:
 >
 > <i class="fa fa-money-bill"></i> **Funding:** This project has received funding from the ELIXIR Programme 2022-2023.
 >
-> <i class="fa fa-anchor"></i> **PURL**:  
+> <i class="fa fa-anchor"></i> **PURL**:  <span style="color:red">not yet available</span>
 
 
 # Authors and Contributors
 
 Authors
 
-- @[orcid(Paulo Czarnewski)](http://orcid.org/0000-0001-8150-4021)
-- @[orcid(Name)](http://orcid.org/0000-0000-0000-0000)
-- @[orcid(Name)](http://orcid.org/0000-0000-0000-0000)
+- @[orcid(Bruna Piereck)](http://orcid.org/0000-0001-5958-0669)
+- @[orcid(Jolan Heyse)](http://orcid.org/0000-0003-2179-0366)
+- @[orcid(Alexander Botzki)](http://orcid.org/0000-0001-6691-4233)
 
 Contributors
 
@@ -133,9 +130,10 @@ Contributors
 
 Please cite as:
 
-  1. ...
+  1. <span style="color:red">soon available</span>
 
 # Chapters List
+ <span style="color:red">under development</span>
 
 | Chapter | Title                                                   |
 | :---- | :------------------------------------------------         |
@@ -196,21 +194,24 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
     "@type": "CreativeWork",
     "@id": "https://bioschemas.org/profiles/TrainingMaterial/1.0-RELEASE"
   },
-  "description": "TeSS, how can I help you? This is our interactive hands-on course about efficient use of the ELIXIR TeSS platform.",
-  "keywords": "FAIR, OPEN, Bioinformatics, Teaching, TeSS",
-  "name": "TeSS, how can I help you?",
+  "description": "Generative AI is transforming the way we work and create. This training is designed to strengthen your AI literacy, helping you use tools like Copilot and other LLM-based chatbots confidently and responsibly in a professional setting. Through interactive discussions and practical exercises, you will explore the main strengths, limitations, and best practices for working with generative AI. You will also learn effective prompting techniques to make these tools support tasks such as brainstorming, adapting tone and style, drafting content, and creating visual ideas. The session highlights ethical considerations, including ownership, copyright, and bias, to ensure accurate and responsible use of AI technologies.",
+  "keywords": "generative AI, AI literacy, Prompting, AI ownership, AI copyrigts",
+  "name": "Using generative AI Responsibly and proficiently at work",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "educationalLevel": "beginner",
   "competencyRequired": "none",
   "teaches": [
-    "search events and material in TeSS via direct and faceted search",
-    "add manually and automatically events and material to TeSS",
-    "extract events and material from TeSS by using TeSS widgets"
+    "Describe strengths, weakness and best practices in the use of LLM.",
+    "Apply good practices to minimize biases and hallucinations in LLMs.",
+    "Use and adapt prompting strategies for brainstorming, steering writing styles, defining language complexity, content drafting and summarization.",
+    "Discuss ethical implications, ownership and copyright of AI-generated content.",
+    "Evaluate quality and reliability of AI-generated content.",
+    "Create illustrations with generative AI tools."
   ],
-  "audience": "training providers",
+  "audience": "Not restricted",
   "inLanguage": "en-US",
   "learningResourceType": [
-    "tutorial"
+    "presentation"
   ],
   "author": [
     {
@@ -219,7 +220,7 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
     },
     {
       "@type": "Person",
-      "name": "Olivier Sand"
+      "name": "Jolan Hense"
     },
     {
       "@type": "Person",
@@ -229,15 +230,15 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
   "contributor": [
     {
       "@type": "Person",
-      "name": "Yasmine Maes"
+      "name": "name"
     },
     {
       "@type": "Person",
-      "name": "Finn Bacall"
+      "name": "name"
     },
     {
       "@type": "Person",
-      "name": "Munazah Andrabi"
+      "name": "name"
     }
   ]
 }

@@ -33,39 +33,8 @@ import:   https://raw.githubusercontent.com/vib-tcp/training_material_template/r
 
 # Using generative AI Responsibly and proficiently at work
 
-<section>
-
-Hello and welcome to our workshop! We are very happy to have you here.
-
-This is the @edition edition of this workshop, jointly organised by VIB and ELIXIR.
-
-> We are using the interactive Open Educational Resource online/offline course infrastructure called LiaScript.
-> It is a distributed way of creating and sharing educational content hosted on github.
-> To see this document as an interactive LiaScript rendered version, click on the
-> following link/badge: [LiaScript](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/training_material_template/main/README.md)
-
-## General context
-
-This workshop is dedicated to strengthen your AI literacy, helping you use tools like Copilot and other LLM-based chatbots confidently and responsibly in a professional setting.
-
-
-## Proposed Schedule
-
-Schedule :
-
-<span style="color:red">Under development</span>
-
-- 9:30 - 11:00 - session
-- 11:00 - 11:15 - break
-- 11:15 - 12:45 - session
-- 12:45 - 13:45 - lunch
-- 13:45 - 15:15 - session
-- 15:15 - 15:30 - break
-- 15:30 - 17:00 - session
-
-</section>
-
-# Lesson overview
+Lesson overview
+-----------------
 
 > <i class="fa fa-lock"></i> **License:** [Creative Commons Attribution 4.0 International  License](https://creativecommons.org/licenses/by/4.0/deed.en)
 >
@@ -74,6 +43,7 @@ Schedule :
 > <svg xmlns="http://www.w3.org/2000/svg" height="14" width="16" viewBox="0 0 576 512"><!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2023 Fonticons, Inc.--><path d="M384 64c0-17.7 14.3-32 32-32H544c17.7 0 32 14.3 32 32s-14.3 32-32 32H448v96c0 17.7-14.3 32-32 32H320v96c0 17.7-14.3 32-32 32H192v96c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32h96V320c0-17.7 14.3-32 32-32h96V192c0-17.7 14.3-32 32-32h96V64z"/></svg> **Level:** Beginner  
 >
 > <i class="fa fa-arrow-left"></i> **Prerequisites**  
+>
 > No previous knowledge requeired.  
 >
 > <i class="fa fa-bookmark"></i> **Description**  Generative AI is transforming the way we work and create. This training is designed to strengthen your AI literacy, helping you use tools like Copilot and other LLM-based chatbots confidently and responsibly in a professional setting.
@@ -92,56 +62,65 @@ Schedule :
 > 5. Evaluate quality and reliability of AI-generated content.
 > 6. Create illustrations with generative AI tools.
 >
-> <i class="fa fa-hourglass"></i> **Time estimation**: 4 hours
+> <i class="fa fa-hourglass"></i> **Time estimation**: 4 hours (1/2 day)
 >
 > <i class="fa fa-asterisk"></i> **Requirements:** The technical requirements are:
-> Creating accounts for [Perplexity](https://www.perplexity.ai/) and [Napkin](https://www.napkin.ai/)
+> Creating accounts for:
+> - [Perplexity](https://www.perplexity.ai/) 
+> - [Napkin](https://www.napkin.ai/)
 >
 > <i class="fa fa-envelope-open-text"></i> **Supporting Materials**:
 > 
 > 1. Exercises and solutions <span style="color:red">Under development</span> [empty link](link)
 > 2. Slides <span style="color:red">Under development</span> [example](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/training_material_template/refs/heads/main/supplementary/chapter_01_presentation.md)  
+>
+> ## Proposed Schedule
+> 
+> <span style="color:red">Under development</span>
+>
+> - 09:30 - 11:00 - session
+> - 11:00 - 11:15 - break
+> - 11:15 - 12:45 - session
+> - 12:45 - 13:45 - lunch
+> - 13:45 - 15:15 - session
+> - 15:15 - 15:30 - break
+> - 15:30 - 17:00 - session
 > 
 > <i class="fa fa-life-ring"></i> **Acknowledgement**:
 >
-> * [ELIXIR Belgium](https://www.elixir-belgium.org/)
 > * [VIB Technologies](https://www.vib.be/)
 >
-> <i class="fa fa-money-bill"></i> **Funding:** This project has received funding from the ELIXIR Programme 2022-2023.
+> <i class="fa fa-money-bill"></i> **Funding:** This project has received funding from VIB.
 >
 > <i class="fa fa-anchor"></i> **PURL**:  <span style="color:red">not yet available</span>
+>
+> # Authors and Contributors
+>
+> Authors
+>
+> [<img src="https://raw.githubusercontent.com/vib-training-conferences/training_material_template/refs/heads/main/docs/images/ORCID-iD_icon_vector.svg" width="20"/>](http://orcid.org/0000-0001-5958-0669) Bruna Piereck
+>
+>[<img src="https://raw.githubusercontent.com/vib-training-conferences/training_material_template/refs/heads/main/docs/images/ORCID-iD_icon_vector.svg" width="20"/>](http://orcid.org/0000-0003-2179-0366) Jolan Heyse
+>
+>[<img src="https://raw.githubusercontent.com/vib-training-conferences/training_material_template/refs/heads/main/docs/images/ORCID-iD_icon_vector.svg" width="20"/>](http://orcid.org/0000-0001-6691-4233) Alexander Botzki
+>
+> Contributors
+>
+> **We welcome contributors for these materials**
+>
+> ## Citing this lesson
+>
+> Please cite as:
+>
+> <span style="color:red">soon available</span>
 
 
-# Authors and Contributors
+# Workshop and Material organization
 
-Authors
-
-- @[orcid(Bruna Piereck)](http://orcid.org/0000-0001-5958-0669)
-- @[orcid(Jolan Heyse)](http://orcid.org/0000-0003-2179-0366)
-- @[orcid(Alexander Botzki)](http://orcid.org/0000-0001-6691-4233)
-
-Contributors
-
-- @[orcid(Name)](http://orcid.org/0000-0000-0000-0000)
-- @[orcid(Name)](http://orcid.org/0000-0000-0000-0000)
-
-
-## Citing this lesson
-
-Please cite as:
-
-  1. <span style="color:red">soon available</span>
-
-# Chapters List
- <span style="color:red">under development</span>
-
-| Chapter | Title                                                   |
-| :---- | :------------------------------------------------         |
-| 0     | [Get ready for the course, instalation and pre-reading](link) |
-| 1     | [Chapter title](link)                                             |
-| 2     | [Chapter title](link)                                             |
-| 3     | [Chapter title](link)                                             |
-
+> We are using the interactive Open Educational Resource online/offline course infrastructure called LiaScript.
+> It is a distributed way of creating and sharing educational content hosted on github.
+> To see this document as an interactive LiaScript rendered version, click on the
+> following link/badge: [LiaScript](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/training_material_template/main/README.md)
 
 # References
 

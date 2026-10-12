@@ -1,4 +1,6 @@
 
+<span style="color:red">not yet available</span>
+
 # Lesson plan for Chapter X
 
 Here is an example template for a lesson plan.

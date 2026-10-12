@@ -1,3 +1,7 @@
+
+<span style="color:red">not yet available</span>
+
+
 You have various options what to put in instructor notes.
 
 The Carpentries provide a general template.

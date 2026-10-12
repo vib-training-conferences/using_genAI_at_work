@@ -51,6 +51,7 @@ Lesson overview
 > Through interactive discussions and practical exercises, you will explore the main strengths, limitations, and best practices for working with generative AI. You will also learn effective prompting techniques to make these tools support tasks such as brainstorming, adapting tone and style, drafting content, and creating visual ideas.
 > The session highlights ethical considerations, including ownership, copyright, and bias, to ensure accurate and responsible use of AI technologies.
 >
+>The presentations, which goes alongside this material can be found in this [link](https://docs.google.com/presentation/d/10Oa4OyvKBkWkD1jnnY_0vZ0_ERzMfcn0/edit?slide=id.p1#slide=id.p1) in view-only format.
 > 
 > <i class="fa fa-arrow-right"></i> **Learning Outcomes:**  
 > By the end of the course, learners will be able to:
@@ -72,7 +73,7 @@ Lesson overview
 > <i class="fa fa-envelope-open-text"></i> **Supporting Materials**:
 > 
 > 1. Exercises and solutions <span style="color:red">Under development</span> [empty link](link)
-> 2. Slides <span style="color:red">Under development</span> [example](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/training_material_template/refs/heads/main/supplementary/chapter_01_presentation.md)  
+> 2. [Slides](https://docs.google.com/presentation/d/10Oa4OyvKBkWkD1jnnY_0vZ0_ERzMfcn0/edit?usp=drive_link&ouid=102044173704117471327&rtpof=true&sd=true)
 >
 > ## Proposed Schedule
 > 

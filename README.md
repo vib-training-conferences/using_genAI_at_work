@@ -72,7 +72,7 @@ Lesson overview
 >
 > <i class="fa fa-envelope-open-text"></i> **Supporting Materials**:
 > 
-> 1. Exercises and solutions <span style="color:red">Under development</span> [empty link](link)
+> 1. [Exercises](../using_genAI_at_work/exercises/PromptEngineering_Templates.md)
 > 2. [Slides](https://docs.google.com/presentation/d/10Oa4OyvKBkWkD1jnnY_0vZ0_ERzMfcn0/edit?usp=drive_link&ouid=102044173704117471327&rtpof=true&sd=true)
 >
 > ## Proposed Schedule

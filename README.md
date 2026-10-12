@@ -66,7 +66,7 @@ Lesson overview
 >
 > <i class="fa fa-asterisk"></i> **Requirements:** The technical requirements are:
 > Creating accounts for:
-> - [Perplexity](https://www.perplexity.ai/) 
+> - [Notebook LM](https://notebook.google.com/) 
 > - [Napkin](https://www.napkin.ai/)
 >
 > <i class="fa fa-envelope-open-text"></i> **Supporting Materials**:
